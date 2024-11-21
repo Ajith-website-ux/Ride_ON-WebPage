@@ -1,7 +1,9 @@
 import React from 'react';
 import OwlCarousel from 'react-owl-carousel';
+import 'react-owl-carousel';
 import 'owl.carousel/dist/assets/owl.carousel.css';
 import 'owl.carousel/dist/assets/owl.theme.default.css';
+
 import img1 from '../../Assets/Rideon Images/img-2.jpg';
 import img2 from '../../Assets/Rideon Images/img-3.jpg';
 import img3 from '../../Assets/Rideon Images/img-4.jpg';
